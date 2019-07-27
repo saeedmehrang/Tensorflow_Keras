@@ -1,2 +1,2 @@
 # Tensorflow_Keras
-This a repository for collection of codes provided by Tensorflow team. 
+This is a repository for collection of codes provided by Tensorflow team. Feel free to use! 
